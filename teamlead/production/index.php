@@ -55,7 +55,7 @@
 
                 <div>
                   <h1><i class="fa fa-paw"></i> ICTER EVENT PLANNER</h1>
-                  <p>©2016 All Rights Reserved.By University of Colombo School of Computing</p>
+                  <p>©2017 All Rights Reserved.By University of Colombo School of Computing</p>
                 </div>
               </div>
             </form>
